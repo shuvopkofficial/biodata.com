@@ -1,5 +1,5 @@
 // PWA Service Worker for SHUVO BIO DATA & SERVICE SITE
-const CACHE_NAME = 'biodata-pwa-c_1793496317488-v1';
+const CACHE_NAME = 'biodata-pwa-c_1793757319149-v1';
 const STATIC_ASSETS = [
   './',
   './index.html',
